@@ -1,5 +1,7 @@
 # NextJS NFT Marketplace
 
+## Live Link
+[NFT Marketplace Live](https://nft-market.on.fleek.co/)
 
 ## 1. Git clone the contracts repo
 
@@ -23,7 +25,7 @@ yarn hardhat deploy --network sepolia
 
 ```
 cd ..
-git clone https://github.com/kaviraj-j/graph-nft-marketplace-fcc
+git clone https://github.com/kaviraj-j/graph-nft-marketplace
 cd graph-nft-marketplace-fcc
 yarn
 ```
